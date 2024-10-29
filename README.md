@@ -4,6 +4,6 @@ A Recommendation engine filters the data using different algorithms and recommen
 
 Unfortunately, due to size limitations, we cannot include the other credit CSV file in this repository. However, you can access it using the following link: (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
-If you encounter any difficulties accessing or using the CSV file, please let us know.
+If you encounter any difficulties accessing or using the CSV file, please let me know.
 .
 
